@@ -1,6 +1,10 @@
 # Devolotics 2023
 FTC team Devolotics 19498's final code for the 2022-2023 season, slightly polished and modified since the end of the season.
 
+Check out more of our stuff:
+https://devolotics.github.io
+https://www.youtube.com/@Devolotics
+
 Uses and contains the full FTC SDK (https://github.com/FIRST-Tech-Challenge/FtcRobotController), as well as some pre-made quickstart files for some libraries such as RoadRunner.
 
 The classes written by myself and my team include:
